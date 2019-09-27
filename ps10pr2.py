@@ -1,10 +1,7 @@
 #
-# ps10pr2.py (Problem Set 10, Problem 2)
-#
-# A Connect Four Player class 
-#
-# name: Julia Thee
-# email: jrmthee@bu.edu
+# Julia Thee
+# jrmthee94@gmail.com
+# Connect Four Player class
 #
 
 from ps10pr1 import Board

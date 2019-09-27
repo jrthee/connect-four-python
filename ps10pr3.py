@@ -1,13 +1,7 @@
 #
-# ps10pr3.py (Problem Set 10, Problem 3)
-#
-# Playing the game!
-#
-# name: Julia Thee
-# email: jrmthee@bu.edu
-#
-# This is an individual-only problem that you must complete on your own,
-# without a partner.
+# Julia Thee
+# jrmthee94@gmail.com
+# Playing the game, and Random Player class for Connect Four
 #
 
 from ps10pr1 import Board

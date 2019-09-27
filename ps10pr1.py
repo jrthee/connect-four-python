@@ -1,10 +1,7 @@
 #
-# ps10pr1.py (Problem Set 10, Problem 1)
-#
-# A Connect Four Board class
-#
-# name: Julia Thee
-# email: jrmthee@bu.edu
+# Julia Thee
+# jrmthee94@gmail.com
+# Connect Four Board class
 #
 
 

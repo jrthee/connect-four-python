@@ -1,10 +1,7 @@
 #
-# ps10pr4.py (Problem Set 10, Problem 4)
-#
-# An AI Player for Connect Four
-#
-# name: Julia Thee
-# email: jrmthee@bu.edu
+# Julia Thee
+# jrmthee94@gmail.com
+# Connect Four AI Player class
 #
 
 from ps10pr3 import *
